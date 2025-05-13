@@ -126,6 +126,9 @@ Integrate backend to store and retrieve real data
 
 Add transaction categorization or filtering
 
+🙌 Credits
+Created by Karthik Kashyap R P
+
 Implement authentication with token-based sessions
 
 Add dark/light theme toggling
