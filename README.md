@@ -129,8 +129,4 @@ Add transaction categorization or filtering
 🙌 Credits
 Created by Karthik Kashyap R P
 
-Implement authentication with token-based sessions
 
-Add dark/light theme toggling
-
-Expand multi-user support with profile settings
